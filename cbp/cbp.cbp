@@ -22,6 +22,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../SDL2.dll" />
+		<Unit filename="../makefile" />
+		<Unit filename="../src/game.cpp" />
+		<Unit filename="../src/game.h" />
+		<Unit filename="../src/sys/framework.cpp" />
+		<Unit filename="../src/sys/framework.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
